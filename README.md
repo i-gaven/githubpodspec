@@ -1,0 +1,2 @@
+# githubpodspec
+podspec文件
